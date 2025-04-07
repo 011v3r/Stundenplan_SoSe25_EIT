@@ -1,4 +1,4 @@
-const passwort = "SoSe25";
+const passwort = "sose25";
 const eingabe = prompt("Bitte Passwort eingeben:");
 if (eingabe !== passwort) {
     document.body.innerHTML = "<h1>Zugriff verweigert</h1>";
@@ -57,14 +57,14 @@ if (eingabe !== passwort) {
                 "wednesday": {
                     "type": "Vorlesung",
                     "dozent": "Torsten-Karl Strempel",
-                    "title": "V: Physik (1)",
+                    "title": "V: Physik 1",
                     "raum": "C10/04.02 048.2029",
                     "wochen": "x/y-Woche"
                 },
                 "thursday": {
                     "type": "Labor",
                     "dozent": "Torsten-Karl Strempel",
-                    "title": "Ü: Physik (1)",
+                    "title": "Ü: Physik 1",
                     "raum": "C10/04.03 048.2021",
                     "wochen": "x/y-Woche"
                 },
@@ -125,7 +125,6 @@ if (eingabe !== passwort) {
                     "title": "Ü: Grundlagen der Elektrotechnik 1 ",
                     "raum": "C10/06.03  048.2131",
                     "wochen": "x/y-Woche"
-                },
                 },
                 "friday": "---",
             },
