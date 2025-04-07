@@ -1,4 +1,4 @@
-const passwort = "sose25";
+const passwort = "Sose25";
 const eingabe = prompt("Bitte Passwort eingeben:");
 if (eingabe !== passwort) {
     document.body.innerHTML = "<h1>Zugriff verweigert</h1>";
