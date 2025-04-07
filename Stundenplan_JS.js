@@ -16,7 +16,13 @@ if (eingabe !== passwort) {
                     "raum": "C10/07.01 048.2079",
                     "wochen": "x/y-Woche"
                 },
-                "wednesday": "---",
+                "wednesday":  {
+                    "type": "Labor",
+                    "dozent": "Felix Lenders",
+                    "title": "Ü: Mathematik 1 ",
+                    "raum": "C10/04.02  048.1011",
+                    "wochen": "x/y-Woche"
+                },
                 "thursday": {
                     "type": "Vorlesung",
                     "dozent": "Felix Lenders",
@@ -81,7 +87,13 @@ if (eingabe !== passwort) {
                     "wochen": "x/y-Woche"
                 },
                 "wednesday": "---",
-                "thursday": "---",
+                "thursday": {
+                    "type": "Labor",
+                    "dozent": "Felix Lenders",
+                    "title": "Ü: Mathematik 1 ",
+                    "raum": "C10/04.02  048.1011",
+                    "wochen": "x/y-Woche"
+                },
                 "friday": "---",
             },
 			{
@@ -107,7 +119,14 @@ if (eingabe !== passwort) {
                     "raum": "C10/08.03 048.2139",
                     "wochen": "x/y-Woche"
                 },
-                "thursday": "---",
+                "thursday": {
+                    "type": "Labor",
+                    "dozent": "Fettah Marankoz",
+                    "title": "Ü: Grundlagen der Elektrotechnik 1 ",
+                    "raum": "C10/06.03  048.2131",
+                    "wochen": "x/y-Woche"
+                },
+                },
                 "friday": "---",
             },
 			{
@@ -127,7 +146,13 @@ if (eingabe !== passwort) {
                     "raum": "C10/08.03 048.2139",
                     "wochen": "x/y-Woche"
                 },
-                "thursday": "---",
+                "thursday": {
+                    "type": "Labor",
+                    "dozent": "Fettah Marankoz",
+                    "title": "Ü: Grundlagen der Elektrotechnik 1 ",
+                    "raum": "C10/06.03  048.2131",
+                    "wochen": "x/y-Woche"
+                },
                 "friday": "---",
             },
 			{
