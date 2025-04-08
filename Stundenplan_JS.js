@@ -52,7 +52,7 @@ if (eingabe !== passwort) {
                     "dozent": "Shun-Ping Chen",
                     "title": "V: Digitaltechnik",
                     "raum": "C10/07.01 048.2079",
-                    "wochen": "x/y-Woche"
+                    "wochen": "y-Woche"
                 },
                 "wednesday": {
                     "type": "Vorlesung",
