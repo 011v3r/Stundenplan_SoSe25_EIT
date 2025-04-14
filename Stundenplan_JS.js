@@ -56,13 +56,14 @@ if (eingabe !== passwort) {
                             }
 
                             // Tooltip-Daten hinzufügen
-                            if (event.details) {
+                            if (event.details || event.datum) {
                                 eventDiv.setAttribute("data-tooltip", JSON.stringify({
                                     title: event.title,
                                     dozent: event.dozent,
                                     raum: event.raum,
                                     wochen: event.wochen,
-                                    details: event.details,
+                                    details: event.details || "",
+                                    datum: event.datum || "",
                                     beschreibung: event.beschreibung || "",
                                     links: event.links || []
                                 }));
@@ -117,6 +118,9 @@ if (eingabe !== passwort) {
 function setupTooltips() {
     const tooltipContainer = document.querySelector(".tooltip");
     const tooltipElements = document.querySelectorAll(".has-tooltip");
+    const nestedTooltipElements = document.querySelectorAll(".event.has-tooltip");
+
+    // const allTooltipElements = [...tooltipElements, ...nestedTooltipElements];
 
     // Für Desktop (Hover)
     tooltipElements.forEach(element => {
