@@ -1,202 +1,313 @@
 {
-  "termine": [
-    {
-      "uhrzeit": "08:30-10:00",
-      "monday": {
-        "type": "Labor",
-        "dozent": "Heiko Koch, Boris Zerbst",
-        "title": "L: Grundlagen der Informationstechnik - Labor",
-        "raum": "D17/01.15 048.2081",
-        "wochen": "x-Woche"
-      },
-      "tuesday": {
-        "type": "Labor",
-        "dozent": "Heiko Koch, Boris Zerbst",
-        "title": "L: Grundlagen der Informationstechnik - Labor",
-        "raum": "D17/01.15 048.2081",
-        "wochen": "y-Woche"
-      },
-      "wednesday": {
-        "type": "Vorlesung",
-        "dozent": "Ingo Gaspard",
-        "title": "V: Grundlagen der Messtechnik",
-        "raum": "C10/04.02 048.2049.2",
-        "wochen": "x/y-Woche"
-      },
-      "thursday": {
-        "type": "Vorlesung",
-        "dozent": "SuK - FB GW",
-        "title": "V: Nichttechnisches Begleitstudium (Wahl aus SuK) - 2. FS",
-        "raum": "048.4130/2",
-        "wochen": "x/y-Woche"
-      },
-      "friday": {
-        "type": "Vorlesung",
-        "dozent": "Antje Wirth",
-        "title": "V: Grundlagen der Informationstechnik",
-        "raum": "C10/04.03 048.2089",
-        "wochen": "x/y-Woche"
-      }
-    },
-    {
-      "uhrzeit": "10:15-11:45",
-      "monday": {
-        "type": "Labor",
-        "dozent": "Heiko Koch, Boris Zerbst",
-        "title": "L: Grundlagen der Informationstechnik - Labor",
-        "raum": "D17/01.15 048.2081",
-        "wochen": "x-Woche"
-      },
-      "tuesday": {
-        "type": "Labor",
-        "dozent": "Heiko Koch, Boris Zerbst",
-        "title": "L: Grundlagen der Informationstechnik - Labor",
-        "raum": "D17/01.15 048.2081",
-        "wochen": "y-Woche"
-      },
-      "wednesday": {
-        "type": "Vorlesung",
-        "dozent": "Inna Mikhailova",
-        "title": "V: Signale und Transformationen",
-        "raum": "C10/04.03 048.2249",
-        "wochen": "x/y-Woche"
-      },
-      "thursday": {
-        "type": "Übung",
-        "dozent": "Herbert Krauß / Marcel Stark",
-        "title": "Ü: Signale und Transformationen - Übung",
-        "raum": "C10/04.01-02 048.2241",
-        "wochen": "x/y-Woche"
-      },
-      "friday": {
-        "type": "Vorlesung",
-        "dozent": "Vladyslav Polushko",
-        "title": "V: Mathematik 2",
-        "raum": "C10/04.03 048.1029",
-        "wochen": "x/y-Woche"
-      }
-    },
-    {
-      "uhrzeit": "12:00-13:30",
-      "monday": {
-        "type": "Vorlesung",
-        "dozent": "Benedikt Schmitz",
-        "title": "V: Grundlagen der Elektrotechnik 2",
-        "raum": "C10/08.03 048.2239",
-        "wochen": "x/y-Woche"
-      },
-      "tuesday": {
-        "type": "Vorlesung",
-        "dozent": "Torsten-Karl Strempel",
-        "title": "V: Physik (2)",
-        "raum": "C10/04.01 048.2029",
-        "wochen": "x/y-Woche"
-      },
-      "wednesday": {
-        "type": "Übung",
-        "dozent": "Benedikt Schmitz",
-        "title": "Ü: Grundlagen der Elektrotechnik 2 - Übung",
-        "raum": "C10/07.02 048.2231",
-        "wochen": "x/y-Woche"
-      },
-      "thursday": {
-        "type": "Vorlesung",
-        "dozent": "SuK - FB GW",
-        "title": "V: Nichttechnisches Begleitstudium (Wahl aus SuK) - 2. FS",
-        "raum": "048.4130/2",
-        "wochen": "x/y-Woche"
-      },
-      "friday": {
-        "type": "Vorlesung",
-        "dozent": "Vladyslav Polushko",
-        "title": "V: Mathematik 2",
-        "raum": "C10/04.03 048.1029",
-        "wochen": "x/y-Woche"
-      }
-    },
-    {
-      "uhrzeit": "14:15-15:45",
-      "monday": {
-        "type": "Labor",
-        "dozent": "Christoph Raab",
-        "title": "L: Physik (2) - Labor",
-        "raum": "C10/07.34 048.2023",
-        "wochen": "x/y-Woche"
-      },
-      "tuesday": {
-        "type": "Vorlesung",
-        "dozent": "Benedikt Schmitz",
-        "title": "V: Grundlagen der Elektrotechnik 2",
-        "raum": "C10/08.03 048.2239",
-        "wochen": "x/y-Woche"
-      },
-      "wednesday": {
-        "type": "Übung",
-        "dozent": "Torsten-Karl Strempel",
-        "title": "Ü: Physik (2) - Übung",
-        "raum": "C10/07.01 048.2022",
-        "wochen": "x/y-Woche"
-      },
-      "thursday": {
-        "type": "Übung",
-        "dozent": "Vladyslav Polushko",
-        "title": "Ü: Mathematik 2 - Übung",
-        "raum": "C10/04.02-03 048.1021",
-        "wochen": "x/y-Woche"
-      },
-      "friday": "---"
-    },
-    {
-      "uhrzeit": "16:00-17:30",
-      "monday": {
-        "type": "Labor",
-        "dozent": "Christoph Raab",
-        "title": "L: Physik (2) - Labor",
-        "raum": "C10/07.34 048.2023",
-        "wochen": "x/y-Woche"
-      },
-      "tuesday": {
-        "type": "Labor",
-        "dozent": "Heiko Koch, Boris Zerbst",
-        "title": "L: Grundlagen der Informationstechnik - Labor",
-        "raum": "D11/1.61 048.2081",
-        "wochen": "x-Woche"
-      },
-      "wednesday": {
-        "type": "Labor",
-        "dozent": "Peter Fromm, Christian Reimund",
-        "title": "L: Grundlagen der Informationstechnik - Labor",
-        "raum": "D11/1.61 048.2081",
-        "wochen": "y-Woche"
-      },
-      "thursday": {
-        "type": "Vorlesung",
-        "dozent": "Markus Haid",
-        "title": "V: Grundlagen der Elektronik",
-        "raum": "D21/00.15 048.2049.1",
-        "wochen": "x/y-Woche"
-      },
-      "friday": "---"
-    },
-    {
-      "uhrzeit": "17:45-19:15",
-      "monday": "---",
-      "tuesday": "---",
-      "wednesday": {
-        "type": "Labor",
-        "dozent": "Heiko Koch, Boris Zerbst",
-        "title": "L: Grundlagen der Informationstechnik - Labor",
-        "raum": "D11/1.61 048.2081",
-        "wochen": "x-Woche"
-      },
-      "thursday": {
-        "type": "Labor",
-        "dozent": "Peter Fromm, Christian Reimund",
-        "title": "L: Grundlagen der Informationstechnik - Labor",
-        "raum": "D11/1.61 048.2081",
-        "wochen": "y-Woche"
-      },
-      "friday": "---"
-    }
-  ]
+    "termine": [
+        {
+            "uhrzeit": "8:30-10:00",
+            "monday": {
+              "type": "Labor",
+              "dozent": "Heiko Koch, Boris Zerbst",
+              "title": "L: Grundlagen der Informationstechnik - Labor",
+              "raum": "D17/01.15 048.2081",
+              "wochen": "x-Woche"
+            },
+            "tuesday": {
+              "type": "Labor",
+              "dozent": "Heiko Koch, Boris Zerbst",
+              "title": "L: Grundlagen der Informationstechnik - Labor",
+              "raum": "D17/01.15 048.2081",
+              "wochen": "y-Woche"
+            },
+            "wednesday": {
+              "type": "Vorlesung",
+              "dozent": "Ingo Gaspard",
+              "title": "V: Grundlagen der Messtechnik",
+              "raum": "C10/04.02 048.2049.2",
+              "wochen": "x/y-Woche"
+            },
+            "thursday": {
+              "type": "Vorlesung",
+              "dozent": "SuK - FB GW",
+              "title": "V: Nichttechnisches Begleitstudium (Wahl aus SuK) - 2. FS",
+              "raum": "048.4130/2",
+              "wochen": "x/y-Woche"
+            },
+            "friday": {
+              "type": "Vorlesung",
+              "dozent": "Antje Wirth",
+              "title": "V: Grundlagen der Informationstechnik",
+              "raum": "C10/04.03 048.2089",
+              "wochen": "x/y-Woche"
+            }
+        },
+        {
+            "uhrzeit": "10:15-11:45",
+            "monday": {
+		"type": "Multiple",
+                "events": [
+                    {
+			"type": "Labor",
+                	"dozent": "Karl-Heinz Lammer, Thomas Schumann",
+                	"title": "L: Digitaltechnik",
+                	"raum": "D11/1.62 048.2071",
+                	"wochen": "y-Woche",
+                	"datum": "5.5.25, 19.5.25, 2.6.25, 23.6.25, 7.7.25",
+                	"beschreibung": "...",
+                	"links": [
+                    	{
+                        	"title": "Moodle-Kurs",
+                        	"url": "https://lernen.h-da.de/course/view.php?id=1182"
+                    	},
+                    	{
+                        	"title": "Vorlesungsskript",
+                        	"url": "https://example.com/scripts/mathe1.pdf"
+                    	}
+                	]
+
+                    },
+                    {
+			"type": "Labor",
+                	"dozent": "Catia Real Ehrlich",
+                	"title": "L: Einführung in die Programmierung",
+                	"raum": "D15/00.03  048.1041",
+                	"wochen": "x-Woche",
+                	"datum": "28.4.25, 12.5.25, 26.5.25, 16.6.25, 30.6.25",
+                	"beschreibung": "...",
+                	"links": [
+                    	{
+                        	"title": "Moodle-Kurs",
+                        	"url" : "https://lernen.h-da.de/course/view.php?id=23781"
+                    	},
+                    	{
+                        	"title": "Vorlesungsskript",
+                        	"url": "https://example.com/scripts/mathe1.pdf"
+                    	}
+                	]
+                    }
+                ]
+
+                            },
+            "tuesday": {
+                "type": "Multiple",
+                "events": [
+                    {
+                        "type": "Vorlesung",
+                        "dozent": "Shun-Ping Chen",
+                        "title": "V: Digitaltechnik",
+                        "raum": "C10/07.01 048.2079",
+                        "wochen": "y-Woche"
+                    },
+                    {
+                        "type": "Vorlesung",
+                        "dozent": "Torsten-Karl Strempel",
+                        "title": "V: Physik 1",
+                        "raum": "C10/04.02 048.2029",
+                        "wochen": "x-Woche"
+                    }
+                ]
+            },
+            "wednesday": {
+                "type": "Vorlesung",
+                "dozent": "Torsten-Karl Strempel",
+                "title": "V: Physik 1",
+                "raum": "C10/04.02 048.2029",
+                "wochen": "x/y-Woche"
+            },
+            "thursday": {
+                "type": "Labor",
+                "dozent": "Torsten-Karl Strempel",
+                "title": "Ü: Physik 1",
+                "raum": "C10/04.03 048.2021",
+                "wochen": "x/y-Woche",
+                "datum": "...",
+                "beschreibung": "Die Übungen sind in die Vorlesung integriert!",
+                "links": [
+                    {
+                        "title": "Moodle-Kurs",
+                        "url": "https://lernen.h-da.de/course/view.php?id=23669"
+                    },
+                    {
+                        "title": "Vorlesungsskript",
+                        "url": "https://example.com/scripts/mathe1.pdf"
+                    }
+                ]
+            },
+            "friday": {
+                "type": "Vorlesung",
+                "dozent": "Felix Lenders",
+                "title": "V: Mathematik 1",
+                "raum": "C10/04.02 048.1019",
+                "wochen": "x/y-Woche"
+            }
+        },
+        {
+            "uhrzeit": "12:00-13:30",
+            "monday": {
+		"type": "Labor",
+                "dozent": "Catia Real Ehrlich",
+                "title": "L: Einführung in die Programmierung",
+                "raum": "D15/00.03  048.1041",
+                "wochen": "x-Woche",
+                "datum": "28.4.25, 12.5.25, 26.5.25, 16.6.25, 30.6.25",
+                "beschreibung": "...",
+                "links": [
+                    {
+                       	"title": "Moodle-Kurs",
+                       	"url" : "https://lernen.h-da.de/course/view.php?id=23781"
+                    },
+                    {
+                       	"title": "Vorlesungsskript",
+                       	"url": "https://example.com/scripts/mathe1.pdf"
+                    }
+                ]
+
+	    },
+            "tuesday": {
+                "type": "Vorlesung",
+                "dozent": "Catia Real Ehrlich",
+                "title": "V: Einführung in die Programmierung",
+                "raum": "C10/03.01 048.1049",
+                "wochen": "x/y-Woche"
+            },
+            "wednesday": {
+                "type": "Vorlesung",
+                "dozent": "Andrew Larrew",
+                "title": "S: Technisches Englisch",
+                "raum": "C10/07.02, C23/04.01",
+                "wochen": "x/y-Woche"
+            },
+            "thursday": {
+                "type": "Labor",
+                "dozent": "Felix Lenders",
+                "title": "Ü: Mathematik 1 ",
+                "raum": "C10/04.02  048.1011",
+                "wochen": "x/y-Woche",
+                "datum": "Beide Termine sind möglich",
+                "beschreibung": " Abgaben der Hausübungen: 1=>22.4.25,  2=>6.5.25, 3=>13.5.25, 4=>20.5.25, 5=>27.5.25, 6=>3.6.25, 7=>10.6.25, 8=>17.6.25, 9=>24.6.25, 10=>1.7.25, 11=>8.7.25, 12=>15.7.25",
+                "links": [
+                    {
+                        "title": "Moodle-Kurs",
+                        "url": "https://lernen.h-da.de/course/view.php?id=23667"
+                    },
+                    {
+                        "title": "Vorlesungsskript",
+                        "url": "https://example.com/scripts/mathe1.pdf"
+                    }
+                ]
+            },
+            "friday": "---"
+        },
+        {
+            "uhrzeit": "14:15-15:45",
+            "monday": {
+                "type": "Vorlesung",
+                "dozent": "Benedikt Schmitz",
+                "title": "V: Grundlagen der Elektrotechnik 1",
+                "raum": "C10/08.03 048.2139",
+                "wochen": "x/y-Woche"
+            },
+            "tuesday": {
+                "type": "Zusatz",
+                "dozent": "Julia Gahler",
+                "title": "Z: ET-Fit: Elektrotechnik",
+                "raum": "C10/08.03 ET-Fit/1",
+                "wochen": "x/y-Woche",
+                "datum": "Gruppe A | 22.04.25  | 06.05.25 | 20.05.25 | 03.06.25 | 17.06.25 | 01.07.25 | 14:15 Uhr | C10 Raum 08.03, Gruppe B | 29.04.25 |  13.05.25 | 27.05.25 | 10.06.25 | 24.06.25 |  08.07.25 | 14:15 Uhr | C10 Raum 08.03",
+                "beschreibung": "Gruppe muss noch gewählt werden",
+                "links": [
+                    {
+                        "title": "Moodle-Kurs",
+                        "url": "https://lernen.h-da.de/course/view.php?id=9146#section-0"
+                    },
+                    {
+                        "title": "Vorlesungsskript",
+                        "url": "https://example.com/scripts/mathe1.pdf"
+                    }
+                ]
+            },
+            "wednesday": {
+                "type": "Vorlesung",
+                "dozent": "Benedikt Schmitz",
+                "title": "V: Grundlagen der Elektrotechnik 1",
+                "raum": "C10/08.03 048.2139",
+                "wochen": "x/y-Woche"
+            },
+            "thursday": {
+                "type": "Labor",
+                "dozent": "Fettah Marankoz",
+                "title": "Ü: Grundlagen der Elektrotechnik 1 ",
+                "raum": "C10/06.03  048.2131",
+                "wochen": "x/y-Woche",
+                "datum": "wird noch bekanntgegeben",
+                "beschreibung": "...",
+                "links": [
+                    {
+                        "title": "Moodle-Kurs",
+                        "url": "https://lernen.h-da.de/course/view.php?id=24240"
+                    },
+                    {
+                        "title": "Vorlesungsskript",
+                        "url": "https://example.com/scripts/mathe1.pdf"
+                    }
+                ]
+            },
+            "friday": "---"
+        },
+        {
+            "uhrzeit": "16:00-17:30",
+            "monday": "---",
+            "tuesday": {
+                "type": "Zusatz",
+                "dozent": "Thomas Betz",
+                "title": "Z: An Ingenieurlösungen lernen",
+                "raum": "C10/08.03",
+                "wochen": "x/y-Woche",
+                "datum": "keine ahnung",
+                "beschreibung": "mal schauen",
+                "links": [
+                    {
+                        "title": "Moodle-Kurs",
+                        "url": "https://moodle.example.com/course/view.php?id=123"
+                    },
+                    {
+                        "title": "Vorlesungsskript",
+                        "url": "https://example.com/scripts/mathe1.pdf"
+                    }
+                ]
+            },
+            "wednesday": {
+                "type": "Vorlesung",
+                "dozent": "Benedikt Schmitz",
+                "title": "V: Grundlagen der Elektrotechnik 1",
+                "raum": "C10/08.03 048.2139",
+                "wochen": "x/y-Woche"
+            },
+            "thursday": {
+                "type": "Labor",
+                "dozent": "Fettah Marankoz",
+                "title": "Ü: Grundlagen der Elektrotechnik 1 ",
+                "raum": "C10/06.03  048.2131",
+                "wochen": "x/y-Woche",
+                "datum": "wird noch bekanntgegeben",
+                "beschreibung": "...",
+                "links": [
+                    {
+                        "title": "Moodle-Kurs",
+                        "url": "https://lernen.h-da.de/course/view.php?id=24240"
+                    },
+                    {
+                        "title": "Vorlesungsskript",
+                        "url": "https://example.com/scripts/mathe1.pdf"
+                    }
+                ]
+            },
+            "friday": "---"
+        },
+        {
+            "uhrzeit": "17:45-19:15",
+            "monday": "---",
+            "tuesday": "---",
+            "wednesday": "---",
+            "thursday": "---",
+            "friday": "---"
+        }
+    ]
 }
