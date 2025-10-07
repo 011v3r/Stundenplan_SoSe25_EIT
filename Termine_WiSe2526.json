@@ -131,7 +131,7 @@
 		        "raum": "C10/07.34 048.2023",
 		        "wochen": "x/y-Woche"
 		    },
-		    "tuesday": 
+		    "tuesday":  "---",
 		    "wednesday": {
 		        "type": "Labor",
 		        "dozent": "Peter Fromm, Christian Reimund",
