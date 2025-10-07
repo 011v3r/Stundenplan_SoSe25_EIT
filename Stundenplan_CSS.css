@@ -59,7 +59,9 @@ td:first-child {
 .Zusatz {
     background-color: #dce8fb;
 }
-
+.Ãœbung {
+    background-color: #dce8fb;
+}
 td:hover {
     background-color: #e0e0e0;
 }
@@ -71,7 +73,7 @@ td:hover {
 
 
 /*CONTAINER*/
-/* Grundstil für Tooltip-Container */
+/* Grundstil fÃ¼r Tooltip-Container */
 .tooltip {
     position: absolute;
     background-color: white;
@@ -86,7 +88,7 @@ td:hover {
     overflow-y: auto;
 }
 
-/* Tooltip-Header mit Titel und Schließen-Button */
+/* Tooltip-Header mit Titel und SchlieÃŸen-Button */
 .tooltip-header {
     display: flex;
     justify-content: space-between;
@@ -139,7 +141,7 @@ td:hover {
         text-decoration: underline;
     }
 
-/* Visueller Indikator für Zellen mit Tooltip */
+/* Visueller Indikator fÃ¼r Zellen mit Tooltip */
 .has-tooltip {
     position: relative;
     cursor: pointer;
@@ -156,7 +158,7 @@ td:hover {
 
 
 /*MULTIPLE-EVENTS*/
-/* Stil für Zellen mit mehreren Ereignissen */
+/* Stil fÃ¼r Zellen mit mehreren Ereignissen */
 .multiple-events {
     padding: 0 !important;
     overflow: hidden;
@@ -174,7 +176,7 @@ td:hover {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    position: relative; /* Für Tooltip-Positionierung */
+    position: relative; /* FÃ¼r Tooltip-Positionierung */
 }
 
     /* Farben je nach Veranstaltungstyp beibehalten */
@@ -190,7 +192,7 @@ td:hover {
         background-color: #dce8fb;
     }
 
-/* Überschrift hervorheben */
+/* Ãœberschrift hervorheben */
 .event-title {
     font-weight: bold;
     text-align: center;
@@ -211,7 +213,7 @@ td:hover {
     margin: 2px 0;
 }
 
-/* Anpassungen für mobile Geräte */
+/* Anpassungen fÃ¼r mobile GerÃ¤te */
 @media (max-width: 768px) {
     th, td {
         font-size: 12px;
@@ -241,7 +243,7 @@ td:hover {
 
     .tooltip {
         max-width: 90%;
-        left: 5% !important; /* Überschreibt die JS-Positionierung */
+        left: 5% !important; /* Ãœberschreibt die JS-Positionierung */
         right: 5%;
     }
 
