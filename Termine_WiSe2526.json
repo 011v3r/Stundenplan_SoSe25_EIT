@@ -38,7 +38,7 @@
             },
 		    "wednesday": {
 		        "type": "Übung",
-		        "dozent": "Herbert Krauß / Marcel Stark",
+		        "dozent": "Marcel Stark",
 		        "title": "Ü: Signale und Transformationen",
 		        "raum": "C10/04.01-02 048.2241",
 		        "wochen": "x/y-Woche"
@@ -137,7 +137,8 @@
 		        "dozent": "Peter Fromm, Christian Reimund",
 		        "title": "L: Grundlagen der Informationstechnik - Labor",
 		        "raum": "D11/1.61 048.2081",
-		        "wochen": "y-Woche"
+		        "wochen": "y-Woche",
+				"datum":15.10.2025	,29.10.2025, 12.11.2025, 26.11.2025, 10.12.2025, 14.01.2026, 28.01.2026
 		    },
 		    "thursday": {
 		        "type": "Vorlesung",
@@ -154,10 +155,11 @@
 		    "tuesday": "---",
 		    "wednesday": {
 		        "type": "Labor",
-		        "dozent": "Heiko Koch, Boris Zerbst",
+		        "dozent": "Peter Fromm, Christian Reimund",
 		        "title": "L: Grundlagen der Informationstechnik - Labor",
 		        "raum": "D11/1.61 048.2081",
-		        "wochen": "y-Woche"
+		        "wochen": "y-Woche",
+				"datum":15.10.2025	,29.10.2025, 12.11.2025, 26.11.2025, 10.12.2025, 14.01.2026, 28.01.2026
 		    },
 			"thursday":"---",
 		    "friday": "---"
