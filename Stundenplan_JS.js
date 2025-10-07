@@ -9,7 +9,7 @@ if (eingabe !== passwort) {
     tooltipContainer.style.display = "none";
     document.body.appendChild(tooltipContainer);
 
-    fetch('Termine.json')
+    fetch('Termine_WiSe2526.json')
         .then(response => response.json())
         .then(data => {
             const table = document.querySelector("table");
