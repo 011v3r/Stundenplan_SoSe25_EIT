@@ -1,0 +1,202 @@
+{
+  "termine": [
+    {
+      "uhrzeit": "08:30-10:00",
+      "monday": {
+        "type": "Labor",
+        "dozent": "Heiko Koch, Boris Zerbst",
+        "title": "L: Grundlagen der Informationstechnik - Labor",
+        "raum": "D17/01.15 048.2081",
+        "wochen": "x-Woche"
+      },
+      "tuesday": {
+        "type": "Labor",
+        "dozent": "Heiko Koch, Boris Zerbst",
+        "title": "L: Grundlagen der Informationstechnik - Labor",
+        "raum": "D17/01.15 048.2081",
+        "wochen": "y-Woche"
+      },
+      "wednesday": {
+        "type": "Vorlesung",
+        "dozent": "Ingo Gaspard",
+        "title": "V: Grundlagen der Messtechnik",
+        "raum": "C10/04.02 048.2049.2",
+        "wochen": "x/y-Woche"
+      },
+      "thursday": {
+        "type": "Vorlesung",
+        "dozent": "SuK - FB GW",
+        "title": "V: Nichttechnisches Begleitstudium (Wahl aus SuK) - 2. FS",
+        "raum": "048.4130/2",
+        "wochen": "x/y-Woche"
+      },
+      "friday": {
+        "type": "Vorlesung",
+        "dozent": "Antje Wirth",
+        "title": "V: Grundlagen der Informationstechnik",
+        "raum": "C10/04.03 048.2089",
+        "wochen": "x/y-Woche"
+      }
+    },
+    {
+      "uhrzeit": "10:15-11:45",
+      "monday": {
+        "type": "Labor",
+        "dozent": "Heiko Koch, Boris Zerbst",
+        "title": "L: Grundlagen der Informationstechnik - Labor",
+        "raum": "D17/01.15 048.2081",
+        "wochen": "x-Woche"
+      },
+      "tuesday": {
+        "type": "Labor",
+        "dozent": "Heiko Koch, Boris Zerbst",
+        "title": "L: Grundlagen der Informationstechnik - Labor",
+        "raum": "D17/01.15 048.2081",
+        "wochen": "y-Woche"
+      },
+      "wednesday": {
+        "type": "Vorlesung",
+        "dozent": "Inna Mikhailova",
+        "title": "V: Signale und Transformationen",
+        "raum": "C10/04.03 048.2249",
+        "wochen": "x/y-Woche"
+      },
+      "thursday": {
+        "type": "Übung",
+        "dozent": "Herbert Krauß / Marcel Stark",
+        "title": "Ü: Signale und Transformationen - Übung",
+        "raum": "C10/04.01-02 048.2241",
+        "wochen": "x/y-Woche"
+      },
+      "friday": {
+        "type": "Vorlesung",
+        "dozent": "Vladyslav Polushko",
+        "title": "V: Mathematik 2",
+        "raum": "C10/04.03 048.1029",
+        "wochen": "x/y-Woche"
+      }
+    },
+    {
+      "uhrzeit": "12:00-13:30",
+      "monday": {
+        "type": "Vorlesung",
+        "dozent": "Benedikt Schmitz",
+        "title": "V: Grundlagen der Elektrotechnik 2",
+        "raum": "C10/08.03 048.2239",
+        "wochen": "x/y-Woche"
+      },
+      "tuesday": {
+        "type": "Vorlesung",
+        "dozent": "Torsten-Karl Strempel",
+        "title": "V: Physik (2)",
+        "raum": "C10/04.01 048.2029",
+        "wochen": "x/y-Woche"
+      },
+      "wednesday": {
+        "type": "Übung",
+        "dozent": "Benedikt Schmitz",
+        "title": "Ü: Grundlagen der Elektrotechnik 2 - Übung",
+        "raum": "C10/07.02 048.2231",
+        "wochen": "x/y-Woche"
+      },
+      "thursday": {
+        "type": "Vorlesung",
+        "dozent": "SuK - FB GW",
+        "title": "V: Nichttechnisches Begleitstudium (Wahl aus SuK) - 2. FS",
+        "raum": "048.4130/2",
+        "wochen": "x/y-Woche"
+      },
+      "friday": {
+        "type": "Vorlesung",
+        "dozent": "Vladyslav Polushko",
+        "title": "V: Mathematik 2",
+        "raum": "C10/04.03 048.1029",
+        "wochen": "x/y-Woche"
+      }
+    },
+    {
+      "uhrzeit": "14:15-15:45",
+      "monday": {
+        "type": "Labor",
+        "dozent": "Christoph Raab",
+        "title": "L: Physik (2) - Labor",
+        "raum": "C10/07.34 048.2023",
+        "wochen": "x/y-Woche"
+      },
+      "tuesday": {
+        "type": "Vorlesung",
+        "dozent": "Benedikt Schmitz",
+        "title": "V: Grundlagen der Elektrotechnik 2",
+        "raum": "C10/08.03 048.2239",
+        "wochen": "x/y-Woche"
+      },
+      "wednesday": {
+        "type": "Übung",
+        "dozent": "Torsten-Karl Strempel",
+        "title": "Ü: Physik (2) - Übung",
+        "raum": "C10/07.01 048.2022",
+        "wochen": "x/y-Woche"
+      },
+      "thursday": {
+        "type": "Übung",
+        "dozent": "Vladyslav Polushko",
+        "title": "Ü: Mathematik 2 - Übung",
+        "raum": "C10/04.02-03 048.1021",
+        "wochen": "x/y-Woche"
+      },
+      "friday": "---"
+    },
+    {
+      "uhrzeit": "16:00-17:30",
+      "monday": {
+        "type": "Labor",
+        "dozent": "Christoph Raab",
+        "title": "L: Physik (2) - Labor",
+        "raum": "C10/07.34 048.2023",
+        "wochen": "x/y-Woche"
+      },
+      "tuesday": {
+        "type": "Labor",
+        "dozent": "Heiko Koch, Boris Zerbst",
+        "title": "L: Grundlagen der Informationstechnik - Labor",
+        "raum": "D11/1.61 048.2081",
+        "wochen": "x-Woche"
+      },
+      "wednesday": {
+        "type": "Labor",
+        "dozent": "Peter Fromm, Christian Reimund",
+        "title": "L: Grundlagen der Informationstechnik - Labor",
+        "raum": "D11/1.61 048.2081",
+        "wochen": "y-Woche"
+      },
+      "thursday": {
+        "type": "Vorlesung",
+        "dozent": "Markus Haid",
+        "title": "V: Grundlagen der Elektronik",
+        "raum": "D21/00.15 048.2049.1",
+        "wochen": "x/y-Woche"
+      },
+      "friday": "---"
+    },
+    {
+      "uhrzeit": "17:45-19:15",
+      "monday": "---",
+      "tuesday": "---",
+      "wednesday": {
+        "type": "Labor",
+        "dozent": "Heiko Koch, Boris Zerbst",
+        "title": "L: Grundlagen der Informationstechnik - Labor",
+        "raum": "D11/1.61 048.2081",
+        "wochen": "x-Woche"
+      },
+      "thursday": {
+        "type": "Labor",
+        "dozent": "Peter Fromm, Christian Reimund",
+        "title": "L: Grundlagen der Informationstechnik - Labor",
+        "raum": "D11/1.61 048.2081",
+        "wochen": "y-Woche"
+      },
+      "friday": "---"
+    }
+  ]
+}
