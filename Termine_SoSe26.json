@@ -83,17 +83,17 @@
         },
         {
             "uhrzeit": "17:45-19:15",
-            "monday": "---",
-            "tuesday": "---",
-            "wednesday": "---",
-            "thursday": "---",
-            "friday": {
+            "monday": {
                 "type": "Vorlesung",
                 "dozent": "Markus Haid",
                 "title": "V: Grundlagen der Elektronik",
                 "raum": "D21/00.15 048.2049.1",
                 "wochen": "x/y-Woche"
-            }
+            },
+            "tuesday": "---",
+            "wednesday": "---",
+            "thursday": "---",
+            "friday": "---"
         }
     ]
 }
