@@ -1,0 +1,99 @@
+{
+    "termine": [
+        {
+            "uhrzeit": "8:30-10:00",
+            "monday": {
+                "type": "Vorlesung",
+                "dozent": "Christoph Raab",
+                "title": "V: Physik (2)",
+                "raum": "C10/02.05 048.2029",
+                "wochen": "x/y-Woche"
+            },
+            "tuesday": "---",
+            "wednesday": "---",
+            "thursday": "---",
+            "friday": {
+                "type": "Vorlesung",
+                "dozent": "Ingo Gaspard",
+                "title": "V: Grundlagen der Messtechnik",
+                "raum": "C10/04.01 048.2049.2",
+                "wochen": "x/y-Woche"
+            }
+        },
+        {
+            "uhrzeit": "10:15-11:45",
+            "monday": "---",
+            "tuesday": {
+                "type": "Multiple",
+                "events": [
+                    {
+                        "type": "Vorlesung",
+                        "dozent": "Tobias Bedenk",
+                        "title": "V: Mathematik 2",
+                        "raum": "C10/03.02 048.1029",
+                        "wochen": "x/y-Woche"
+                    }
+                ]
+            },
+            "wednesday": "---",
+            "thursday": {
+                "type": "Übung",
+                "dozent": "Christoph Raab",
+                "title": "Ü: Physik (2) - Übung",
+                "raum": "C10/03.02 048.2022",
+                "wochen": "x/y-Woche"
+            },
+            "friday": {
+                "type": "Übung",
+                "dozent": "Tobias Bedenk",
+                "title": "Ü: Mathematik 2 - Übung",
+                "raum": "C10/03.03 048.1021",
+                "wochen": "x/y-Woche"
+            }
+        },
+        {
+            "uhrzeit": "12:00-13:30",
+            "monday": "---",
+            "tuesday": {
+                "type": "Vorlesung",
+                "dozent": "Tobias Bedenk",
+                "title": "V: Mathematik 2",
+                "raum": "C10/03.02 048.1029",
+                "wochen": "x/y-Woche"
+            },
+            "wednesday": "---",
+            "thursday": "---",
+            "friday": "---"
+        },
+        {
+            "uhrzeit": "14:15-15:45",
+            "monday": "---",
+            "tuesday": "---",
+            "wednesday": "---",
+            "thursday": "---",
+            "friday": "---"
+        },
+        {
+            "uhrzeit": "16:00-17:30",
+            "monday": "---",
+            "tuesday": "---",
+            "wednesday": "---",
+            "thursday": "---",
+            "friday": "---"
+        },
+        {
+            "uhrzeit": "17:45-19:15",
+            "monday": "---",
+            "tuesday": "---",
+            "wednesday": "---",
+            "thursday": "---",
+            "friday": {
+                "type": "Vorlesung",
+                "dozent": "Markus Haid",
+                "title": "V: Grundlagen der Elektronik",
+                "raum": "D21/00.15 048.2049.1",
+                "wochen": "x/y-Woche"
+            }
+        }
+    ]
+}
