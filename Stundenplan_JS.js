@@ -1,4 +1,4 @@
-const passwort = "Sose25";
+const passwort = "Sose26";
 const eingabe = prompt("Bitte Passwort eingeben:");
 if (eingabe !== passwort) {
     document.body.innerHTML = "<h1>Zugriff verweigert</h1>";
@@ -9,7 +9,7 @@ if (eingabe !== passwort) {
     tooltipContainer.style.display = "none";
     document.body.appendChild(tooltipContainer);
 
-    fetch('Termine_WiSe2526.json')
+    fetch('Termine_SoSe26.json')
         .then(response => response.json())
         .then(data => {
             const table = document.querySelector("table");
