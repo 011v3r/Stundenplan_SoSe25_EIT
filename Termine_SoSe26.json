@@ -3,13 +3,31 @@
         {
             "uhrzeit": "8:30-10:00",
             "monday": {
+                "type": "Multiple",
+                "events": [
+                    {
+                        "type": "Vorlesung",
+                        "dozent": "Christoph Raab",
+                        "title": "V: Physik (2)",
+                        "raum": "C10/02.05 048.2029",
+                        "wochen": "x/y-Woche"
+                    },
+                    {
+                        "type": "Vorlesung",
+                        "dozent": "Stephan Bannwarth",
+                        "title": "V: Elektronik",
+                        "raum": "C10/03.03 048.3169",
+                        "wochen": "x/y-Woche"
+                    }
+                ]
+            },
+            "tuesday": {
                 "type": "Vorlesung",
-                "dozent": "Christoph Raab",
-                "title": "V: Physik (2)",
-                "raum": "C10/02.05 048.2029",
+                "dozent": "Alexandra Weigl-Seitz",
+                "title": "V: Grundlagen der Systemtheorie und Regelungstechnik",
+                "raum": "C10/04.01 048.3149",
                 "wochen": "x/y-Woche"
             },
-            "tuesday": "---",
             "wednesday": "---",
             "thursday": "---",
             "friday": {
@@ -32,16 +50,35 @@
                         "title": "V: Mathematik 2",
                         "raum": "C10/03.02 048.1029",
                         "wochen": "x/y-Woche"
+                    },
+                    {
+                        "type": "Vorlesung",
+                        "dozent": "Lisa Koch",
+                        "title": "V: Simulation Technischer Systeme",
+                        "raum": "C10/03.01 048.3109",
+                        "wochen": "x/y-Woche"
                     }
                 ]
             },
             "wednesday": "---",
             "thursday": {
-                "type": "Übung",
-                "dozent": "Christoph Raab",
-                "title": "Ü: Physik (2) - Übung",
-                "raum": "C10/03.02 048.2022",
-                "wochen": "x/y-Woche"
+                "type": "Multiple",
+                "events": [
+                    {
+                        "type": "Übung",
+                        "dozent": "Christoph Raab",
+                        "title": "Ü: Physik (2) - Übung",
+                        "raum": "C10/03.02 048.2022",
+                        "wochen": "x/y-Woche"
+                    },
+                    {
+                        "type": "Übung",
+                        "dozent": "Alexandra Weigl-Seitz",
+                        "title": "Ü: Grundlagen der Systemtheorie und Regelungstechnik - Übung",
+                        "raum": "C10/04.01 048.3141",
+                        "wochen": "x/y-Woche"
+                    }
+                ]
             },
             "friday": {
                 "type": "Übung",
@@ -61,13 +98,25 @@
                 "raum": "C10/03.02 048.1029",
                 "wochen": "x/y-Woche"
             },
-            "wednesday": "---",
+            "wednesday": {
+                "type": "Vorlesung",
+                "dozent": "Alexandra Weigl-Seitz",
+                "title": "V: Grundlagen der Systemtheorie und Regelungstechnik",
+                "raum": "C10/04.01 048.3149",
+                "wochen": "x/y-Woche"
+            },
             "thursday": "---",
             "friday": "---"
         },
         {
             "uhrzeit": "14:15-15:45",
-            "monday": "---",
+            "monday": {
+                "type": "Vorlesung",
+                "dozent": "Thorsten Meiß",
+                "title": "V: Messtechnik",
+                "raum": "C10/04.01 048.3199",
+                "wochen": "x/y-Woche"
+            },
             "tuesday": "---",
             "wednesday": "---",
             "thursday": "---",
