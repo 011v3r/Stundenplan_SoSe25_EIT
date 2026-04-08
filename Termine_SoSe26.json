@@ -30,30 +30,11 @@
             },
             "wednesday": "---",
             "thursday": {
-                "type": "Multiple",
-                "events": [
-                    {
-                        "type": "Vorlesung",
-                        "dozent": "Christoph Raab",
-                        "title": "V: Physik (2)",
-                        "raum": "C10/02.05 048.2029",
-                        "wochen": "x/y-Woche"
-                    },
-                    {
-                        "type": "Vorlesung",
-                        "dozent": "Stephan Bannwarth",
-                        "title": "V: Elektronik",
-                        "raum": "C10/03.03 048.3169",
-                        "wochen": "x/y-Woche"
-                    },
-                    {
-                        "type": "Labor",
-                        "dozent": "Jakob Belschner, Willi Pfeuffer",
-                        "title": "L: Simulation Technischer Systeme - Labor",
-                        "raum": "D17/01.15 048.3101",
-                        "wochen": "x/y-Woche"
-                    }
-                ]
+                "type": "Labor",
+                "dozent": "Jakob Belschner, Willi Pfeuffer",
+                 "title": "L: Simulation Technischer Systeme",
+                 "raum": "D17/01.15 048.3101",
+                 "wochen": "x/y-Woche"
             },
             "friday": {
                 "type": "Vorlesung",
@@ -68,7 +49,7 @@
             "monday": {
                 "type": "Labor",
                 "dozent": "Stephan Bannwarth, Holger Frank",
-                "title": "L: Elektronik - Labor y",
+                "title": "L: Elektronik",
                 "raum": "D11/0.69 048.3161",
                 "wochen": "y-Woche"
             },
@@ -124,7 +105,7 @@
             "monday": {
                 "type": "Labor",
                 "dozent": "Stephan Bannwarth, Holger Frank",
-                "title": "L: Elektronik - Labor y",
+                "title": "L: Elektronik",
                 "raum": "D11/0.69 048.3161",
                 "wochen": "y-Woche"
             },
@@ -158,14 +139,14 @@
                 "type": "Multiple",
                 "events": [
                     {
-                        "type": "Tutorium",
+                        "type": "Zusatz",
                         "dozent": "Michael Hubrich",
                         "title": "Z: Freiwilliges Tutorium: Elektronik-Labor",
                         "raum": "D11/0.69 048.3161",
                         "wochen": "x/y-Woche"
                     },
                     {
-                        "type": "Tutorium",
+                        "type": "Zusatz",
                         "dozent": "Manuel Leidel",
                         "title": "Z: Freiwilliges Tutorium: Messtechnik-Labor",
                         "raum": "D11/0.72a 048.3191",
@@ -176,7 +157,7 @@
             "wednesday": {
                 "type": "Labor",
                 "dozent": "Manuel Leidel, Thorsten Meiß",
-                "title": "L: Messtechnik - Labor y",
+                "title": "L: Messtechnik",
                 "raum": "D11/0.72a 048.3191",
                 "wochen": "y-Woche"
             },
@@ -190,14 +171,14 @@
                 "type": "Multiple",
                 "events": [
                     {
-                        "type": "Tutorium",
+                        "type":"Zusatz",
                         "dozent": "Michael Hubrich",
                         "title": "Z: Freiwilliges Tutorium: Elektronik-Labor",
                         "raum": "D11/0.69 048.3161",
                         "wochen": "x/y-Woche"
                     },
                     {
-                        "type": "Tutorium",
+                        "type": "Zusatz",
                         "dozent": "Manuel Leidel",
                         "title": "Z: Freiwilliges Tutorium: Messtechnik-Labor",
                         "raum": "D11/0.72a 048.3191",
@@ -208,7 +189,7 @@
             "wednesday": {
                 "type": "Labor",
                 "dozent": "Manuel Leidel, Thorsten Meiß",
-                "title": "L: Messtechnik - Labor y",
+                "title": "L: Messtechnik",
                 "raum": "D11/0.72a 048.3191",
                 "wochen": "y-Woche"
             },
