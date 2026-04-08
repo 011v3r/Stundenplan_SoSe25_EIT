@@ -29,7 +29,32 @@
                 "wochen": "x/y-Woche"
             },
             "wednesday": "---",
-            "thursday": "---",
+            "thursday": {
+                "type": "Multiple",
+                "events": [
+                    {
+                        "type": "Vorlesung",
+                        "dozent": "Christoph Raab",
+                        "title": "V: Physik (2)",
+                        "raum": "C10/02.05 048.2029",
+                        "wochen": "x/y-Woche"
+                    },
+                    {
+                        "type": "Vorlesung",
+                        "dozent": "Stephan Bannwarth",
+                        "title": "V: Elektronik",
+                        "raum": "C10/03.03 048.3169",
+                        "wochen": "x/y-Woche"
+                    },
+                    {
+                        "type": "Labor",
+                        "dozent": "Jakob Belschner, Willi Pfeuffer",
+                        "title": "L: Simulation Technischer Systeme - Labor",
+                        "raum": "D17/01.15 048.3101",
+                        "wochen": "x/y-Woche"
+                    }
+                ]
+            },
             "friday": {
                 "type": "Vorlesung",
                 "dozent": "Ingo Gaspard",
@@ -40,7 +65,13 @@
         },
         {
             "uhrzeit": "10:15-11:45",
-            "monday": "---",
+            "monday": {
+                "type": "Labor",
+                "dozent": "Stephan Bannwarth, Holger Frank",
+                "title": "L: Elektronik - Labor y",
+                "raum": "D11/0.69 048.3161",
+                "wochen": "y-Woche"
+            },
             "tuesday": {
                 "type": "Multiple",
                 "events": [
@@ -90,7 +121,13 @@
         },
         {
             "uhrzeit": "12:00-13:30",
-            "monday": "---",
+            "monday": {
+                "type": "Labor",
+                "dozent": "Stephan Bannwarth, Holger Frank",
+                "title": "L: Elektronik - Labor y",
+                "raum": "D11/0.69 048.3161",
+                "wochen": "y-Woche"
+            },
             "tuesday": {
                 "type": "Vorlesung",
                 "dozent": "Tobias Bedenk",
@@ -117,16 +154,64 @@
                 "raum": "C10/04.01 048.3199",
                 "wochen": "x/y-Woche"
             },
-            "tuesday": "---",
-            "wednesday": "---",
+            "tuesday": {
+                "type": "Multiple",
+                "events": [
+                    {
+                        "type": "Tutorium",
+                        "dozent": "Michael Hubrich",
+                        "title": "Z: Freiwilliges Tutorium: Elektronik-Labor",
+                        "raum": "D11/0.69 048.3161",
+                        "wochen": "x/y-Woche"
+                    },
+                    {
+                        "type": "Tutorium",
+                        "dozent": "Manuel Leidel",
+                        "title": "Z: Freiwilliges Tutorium: Messtechnik-Labor",
+                        "raum": "D11/0.72a 048.3191",
+                        "wochen": "x/y-Woche"
+                    }
+                ]
+            },
+            "wednesday": {
+                "type": "Labor",
+                "dozent": "Manuel Leidel, Thorsten Meiß",
+                "title": "L: Messtechnik - Labor y",
+                "raum": "D11/0.72a 048.3191",
+                "wochen": "y-Woche"
+            },
             "thursday": "---",
             "friday": "---"
         },
         {
             "uhrzeit": "16:00-17:30",
             "monday": "---",
-            "tuesday": "---",
-            "wednesday": "---",
+            "tuesday": {
+                "type": "Multiple",
+                "events": [
+                    {
+                        "type": "Tutorium",
+                        "dozent": "Michael Hubrich",
+                        "title": "Z: Freiwilliges Tutorium: Elektronik-Labor",
+                        "raum": "D11/0.69 048.3161",
+                        "wochen": "x/y-Woche"
+                    },
+                    {
+                        "type": "Tutorium",
+                        "dozent": "Manuel Leidel",
+                        "title": "Z: Freiwilliges Tutorium: Messtechnik-Labor",
+                        "raum": "D11/0.72a 048.3191",
+                        "wochen": "x/y-Woche"
+                    }
+                ]
+            },
+            "wednesday": {
+                "type": "Labor",
+                "dozent": "Manuel Leidel, Thorsten Meiß",
+                "title": "L: Messtechnik - Labor y",
+                "raum": "D11/0.72a 048.3191",
+                "wochen": "y-Woche"
+            },
             "thursday": "---",
             "friday": "---"
         },
