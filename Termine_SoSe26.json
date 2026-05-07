@@ -165,14 +165,14 @@
             },
             "tuesday": "---",
             "wednesday": "---",
-            "thursday": "---",
-            "friday": {
+            "thursday": {
                 "type": "Übung",
                 "dozent": "Tobias Bedenk",
                 "title": "Ü: Mathematik 2 - Übung",
                 "raum": "C10/03.03 048.1021",
                 "wochen": "x/y-Woche"
-            }
+            },
+            "friday": "---"
         }
     ]
 }
